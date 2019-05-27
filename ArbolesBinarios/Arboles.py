@@ -25,7 +25,7 @@ def a_lista(arbol):
         return []
     return a_lista(arbol.izquierda)+[arbol.valor]+a_lista(arbol.derecha)
 
-
+#Agregar un nodo a un arbol existente
 def agregarNodo(arbol,valor):
 
     if arbol.valor == valor:
@@ -44,6 +44,13 @@ def agregarNodo(arbol,valor):
             return nodo(arbol.valor, arbol.izquierda, nodo(valor))
         else:
             return nodo(arbol.valor, arbol.izquierda, agregarNodo(arbol.derecha, valor))
+
+
+#Agregar lista de nodos a un arbol existente
+def agregarNodos(arbol, listaValores):
+    if listaValores == []:
+        return arbol
+    return agregarNodos(agregarNodo (arbol,listaValores[0]) , listaValores[1:])
 
 
 #Agrega los nodos en la creación del árbol
@@ -66,6 +73,7 @@ def main():
     print(sumar(l))
     print(a_lista(l))
     print(a_lista(agregarNodo(l, 7)))
+    print(a_lista(agregarNodos(l, [1,2,3,15,20,90,900])))
     print(a_lista(a_arbol([25, 10, 40, 5, 18, 30, 50])))
 
 
