@@ -64,7 +64,7 @@ def a_lista(arbol):
     return a_lista(arbol.izquierda)+[arbol.valor]+a_lista(arbol.derecha)
 ```
 Nuevamente vemos el recorrido descendente que realiza la recursividad.
-#### Agregando un nodo a la lista
+#### Agregando un nodo a un árbol
 Como vemos, el árbol se ordena de manera tal que, al agregar un nodo se debe colocar en orden numérico:
 ```python
 def agregarNodo(arbol,valor):
@@ -99,6 +99,15 @@ Si analizamos esta recursividad veremos los siguiente:
 * Cada retorno en donde se  realiza la recursividad, tiene presente al nodo usando la misma creación
   de un nodo, puesto que en sus parametros hacemos referencia a su valor y enlaces, por lo tanto,
   sabremos que no perdemos ni valores ni enlaces del árbol en nuestros llamados recursivos. 
+#### Agregando varios nodos a un árbol
+El árbol a modificar utilizará una recursividad a partir de la función anterior:
+```python
+def agregarNodos(arbol, listaValores):
+    if listaValores == []:
+        return arbol
+    return agregarNodos(agregarNodo (arbol,listaValores[0]) , listaValores[1:])
+```
+Como vemos creará un nuevo árbol a partir de uno ya creado, el cual es el primer parametro.
 #### Creando árboles binarios a través de listas
 Para crear un árbol binario a través de una función cuyo único parámetro sea una lista, usaremos la 
 función realizada anteriormente, ya que es idónea para esta situacion.
