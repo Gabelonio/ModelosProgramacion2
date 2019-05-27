@@ -1,3 +1,6 @@
+#### Gabriel Esteban Castillo Ramirez
+#### Omar Alejandro Espitia Sanchez
+#### Juan Camilo Martinez Lopez
 # Arboles Binarios :shipit:
 ## El uso de árboles es una herramienta útil en el manejo de información homogénea
 ### Uso de árboles binarios a través de código en Python
@@ -126,9 +129,5 @@ Al analizar la segunda función, veremos que:
 
  
 Finalmente veremos en la función main() unas pruebas para probar cada función y comprobar lo dicho anteriormente.
-
-#### Gabriel Esteban Castillo Ramirez
-#### Omar Alejandro Espitia Sanchez
-#### Juan Camilo Martinez Lopez
 
 
