@@ -13,6 +13,6 @@ tal que, al hacer uso de la función map, podemos resumir ese recorrido en una l
 ```python
 list(map(lambda x: determinarMayor(x), listadeListas)))
 ```
-Con map garantizamos que en la lista se recorra cada lista realizando la operación y retornando en cada una el mayor de cada una de ellas.
+Con map garantizamos que en la lista se recorra cada lista realizando la operación y retornando en cada una su respectivo mayor.
 
 
