@@ -12,7 +12,7 @@ y necesita de su maiz para saciar su necesidad de alimento.
 es recolectar maiz para obtener puntos, cada maiz otorga un punto.
 * Los obstaculos son los autos, los cuales pueden ir muy velozmente o muy lentamente, ambos colocando 
 al jugador en distintos retos a su destreza, tocar un auto significar  la muerte de la gallina y por 
-ende la terminaci¢n de la partida.
+ende la terminación de la partida.
 
 
 <img src="https://user-images.githubusercontent.com/43209755/60149719-4b444080-979b-11e9-981c-fa76689d7db6.png" width="560">
@@ -55,7 +55,7 @@ Continuando con el maíz, ella contiene funciones y atributos más sencillos, su
 
 Siendo complementado por sus funciones:
 * Dibujarse en el tablero.
-* Cambiar de posici¢n cada que sea comido por la gallina.
+* Cambiar de posición cada que sea comido por la gallina.
 Apoyandose de una función sencilla de generaci¢n de números aleatorios. 
 
 
@@ -72,6 +72,6 @@ Asimismo, veremos que cuenta con sus respectivas funciones:
 Se apoya en funciones como generar números aleatorios, posición aleatoria dada una cantidad de carriles,
 asigna la velocidad dependiendo del carril en donde esta y de igual manera la imagen asociada a su velocidad. 
  
-Finalmente veremos en ejecuci¢n cada subestructura accionando el .html que se encuentra en el repositorio.
+Finalmente veremos en ejecución cada subestructura accionando el .html que se encuentra en el repositorio.
 
 
