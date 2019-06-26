@@ -8,7 +8,7 @@ y necesita de su maiz para saciar su necesidad de alimento.
 Coloque aqui la imagen de maiz 
 
 
-<img src="https://user-images.githubusercontent.com/43209755/58387777-5e1bf780-7fda-11e9-8ff6-ae4898618c65.png" width="350">
+<img src="https://user-images.githubusercontent.com/43209755/60149719-4b444080-979b-11e9-981c-fa76689d7db6.png" width="350">
 
 ### Instrucciones del juego
 * La gallina es controlada por las flechas del teclado o con las teclas W A S D, el objetivo del juego
@@ -43,6 +43,8 @@ Empezando por la gallina, ella cuenta con los siguientes atributos:
 * Imagenes (sprites).
 * Estado vivo/muerto.
 * Puntaje.
+
+
 Además cuenta con los siguientes comportamientos:
 * Actualizar su posici¢n conforme se presionan teclas de movimiento.
 * Dibujarse en el tablero junto a sus caracter¡sticas (puntaje).
