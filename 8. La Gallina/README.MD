@@ -5,10 +5,7 @@
 ### Introduccion
 La gallina se ha perdido en la carretera y su alimento se ha esparcido en ella, esta hambrienta
 y necesita de su maiz para saciar su necesidad de alimento.
-Coloque aqui la imagen de maiz 
 
-
-<img src="https://user-images.githubusercontent.com/43209755/60149719-4b444080-979b-11e9-981c-fa76689d7db6.png" width="350">
 
 ### Instrucciones del juego
 * La gallina es controlada por las flechas del teclado o con las teclas W A S D, el objetivo del juego
@@ -17,8 +14,8 @@ es recolectar maiz para obtener puntos, cada maiz otorga un punto.
 al jugador en distintos retos a su destreza, tocar un auto significar  la muerte de la gallina y por 
 ende la terminaci¢n de la partida.
 
-Coloque aqui imagen del tablero del juego
-<img src="https://user-images.githubusercontent.com/43209755/58387777-5e1bf780-7fda-11e9-8ff6-ae4898618c65.png" width="350">
+
+<img src="https://user-images.githubusercontent.com/43209755/60149719-4b444080-979b-11e9-981c-fa76689d7db6.png" width="460">
 
 ### Estructura del juego
 El juego se apoya en lenguajes como HTML y JavaScript, adem s de hacer uso de CSS, no se ahondar  en el uso del CSS.
@@ -29,10 +26,10 @@ La estructura principal del juego se encuentra en el archivo "script.js" en dond
 2. Las condiciones para inicializar el juego se encuentran en el archivo.
 3. Los eventos de interacci¢n con la p gina se dan igualmente dentro del archivo (intrucciones, reinicio de juego y captura de teclas).
 
-#### Visualizaci¢n e interacci¢n 
+#### Visualización e interacción 
 El £nico archivo "index.html" con ayuda de "default.css" nos ayuda a dar la base visual del juego, en ella encontramos:
 1. La estructura visual de la pagina en donde el juego se despliega.
-2. Informaci¢n de creadores, palabras clave y descripci¢n breve del juego.
+2. Información de creadores, palabras clave y descripción breve del juego.
 3. Referencias visuales y auditivas del juego (las fuentes de las referencias se encuentran en el pdf adjunto en el repositorio).
 
 #### Funcionalidad
