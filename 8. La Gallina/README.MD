@@ -15,10 +15,10 @@ al jugador en distintos retos a su destreza, tocar un auto significar  la muert
 ende la terminaci¢n de la partida.
 
 
-<img src="https://user-images.githubusercontent.com/43209755/60149719-4b444080-979b-11e9-981c-fa76689d7db6.png" width="460">
+<img src="https://user-images.githubusercontent.com/43209755/60149719-4b444080-979b-11e9-981c-fa76689d7db6.png" width="560">
 
 ### Estructura del juego
-El juego se apoya en lenguajes como HTML y JavaScript, adem s de hacer uso de CSS, no se ahondar  en el uso del CSS.
+El juego se apoya en lenguajes como HTML y JavaScript, además de hacer uso de CSS, no se ahondará en el uso del CSS.
 
 #### Esqueleto principal
 La estructura principal del juego se encuentra en el archivo "script.js" en donde veremos lo siguiente:
@@ -56,20 +56,20 @@ Continuando con el maíz, ella contiene funciones y atributos más sencillos, su
 Siendo complementado por sus funciones:
 * Dibujarse en el tablero.
 * Cambiar de posici¢n cada que sea comido por la gallina.
-Apoyandose de una funci¢n sencilla de generaci¢n de n£meros aleatorios. 
+Apoyandose de una función sencilla de generaci¢n de números aleatorios. 
 
-Finalmente los autos, los cuales cuentan con distintos comportamientos y varriables complementarias, continuando con el orden,
-estos atributos son:
-* Posici¢n en "x" y "y".
+
+Finalmente los autos, los cuales cuentan con distintos comportamientos y varriables complementarias, continuando con el orden, estos atributos son:
+* Posición en "x" y "y".
 * Velocidad.
 * Imagen.
 
 Asimismo, veremos que cuenta con sus respectivas funciones:
-* Inicializar las caracter¡sticas del carro.
-* Reinicar las caracter¡sticas del carro.
+* Inicializar las características del carro.
+* Reinicar las características del carro.
 * Dibujarse en el tablero.
 * Actualizar su posici¢n dependiendo de su velocidad.
-Se apoya en funciones como generar n£meros aleatorios, posici¢n aleatoria dada una cantidad de carriles,
+Se apoya en funciones como generar números aleatorios, posición aleatoria dada una cantidad de carriles,
 asigna la velocidad dependiendo del carril en donde esta y de igual manera la imagen asociada a su velocidad. 
  
 Finalmente veremos en ejecuci¢n cada subestructura accionando el .html que se encuentra en el repositorio.
