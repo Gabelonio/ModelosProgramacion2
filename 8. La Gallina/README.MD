@@ -2,7 +2,7 @@
 #### Omar Alejandro Espitia Sanchez
 #### Juan Camilo Martinez Lopez
 # Juego de la Gallina :chicken:
-### Introduccion
+### Introducción
 La gallina se ha perdido en la carretera y su alimento se ha esparcido en ella, esta hambrienta
 y necesita de su maiz para saciar su necesidad de alimento.
 
