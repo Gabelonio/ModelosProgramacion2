@@ -1,5 +1,5 @@
 #### Gabriel Esteban Castillo Ramirez - 20171020021
-#### Omar Alejandro Espitia Sanchez - 2017102094
+#### Omar Alejandro Espitia Sanchez - 20171020094
 #### Juan Camilo Martinez Lopez - 20171020074
 # Juego de la Gallina :chicken:
 ### Introducción
