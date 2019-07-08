@@ -24,7 +24,7 @@ El juego se apoya en lenguajes como HTML y JavaScript, además de hacer uso de C
 La estructura principal del juego se encuentra en el archivo "script.js" en donde veremos lo siguiente:
 1. El juego se apoya en dos estados, cuando la gallina vive y cuando muere.
 2. Las condiciones para inicializar el juego se encuentran en el archivo.
-3. Los eventos de interacci¢n con la p gina se dan igualmente dentro del archivo (intrucciones, reinicio de juego y captura de teclas).
+3. Los eventos de interacción con la p gina se dan igualmente dentro del archivo (intrucciones, reinicio de juego y captura de teclas).
 
 #### Visualización e interacción 
 El £nico archivo "index.html" con ayuda de "default.css" nos ayuda a dar la base visual del juego, en ella encontramos:
@@ -43,7 +43,7 @@ Empezando por la gallina, ella cuenta con los siguientes atributos:
 
 
 Además cuenta con los siguientes comportamientos:
-* Actualizar su posici¢n conforme se presionan teclas de movimiento.
+* Actualizar su posición conforme se presionan teclas de movimiento.
 * Dibujarse en el tablero junto a sus caracter¡sticas (puntaje).
 * Verificar colisiones ya sea con autos o con ma¡z.
 
