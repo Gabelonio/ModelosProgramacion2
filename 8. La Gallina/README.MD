@@ -1,6 +1,6 @@
-#### Gabriel Esteban Castillo Ramirez
-#### Omar Alejandro Espitia Sanchez
-#### Juan Camilo Martinez Lopez
+#### Gabriel Esteban Castillo Ramirez - 20171020021
+#### Omar Alejandro Espitia Sanchez - 2017102094
+#### Juan Camilo Martinez Lopez - 20171020074
 # Juego de la Gallina :chicken:
 ### Introducción
 La gallina se ha perdido en la carretera y su alimento se ha esparcido en ella, esta hambrienta
